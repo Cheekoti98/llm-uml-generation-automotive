@@ -1,6 +1,7 @@
 # llm-uml-generation-automotive
 This is an extension project of my master thesis work: Comparative analysis of LLMs for automated UML generation from automotive textual requirements
-**LLM-Based UML Generation for Automotive Requirements**
+
+# LLM-Based UML Generation for Automotive Requirements
 
 This project investigates the use of Large Language Models (LLMs) for automatic generation of UML diagrams from automotive textual requirements.
 
